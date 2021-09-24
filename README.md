@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I am a web application developer, I am having experience in NodeJS, ExpressJS , Javascript and SpringBoot. I have used the databases like SQL,MongoDB,Postgres. I am passionate about learning nodejs in deep. I am trying to create basic programs that will help beginners to dive into nodejs and javascript.
